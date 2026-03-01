@@ -81,10 +81,24 @@ Currently using **Gruvbox**.
 
 ---
 
-## Things
+## ⚠️ Missing  Things
 
 some thing are missing like for you need to copy things in clipboard you need ``` "+y ``` or to paste ``` "+p ``` and there is no dashboard or no teminal i am working on theme  
 
+what i am planning 
+
+- dashboard
+- terminal
+- add this so normal y an dp yan to clipboard and paste form clipboard
+
+---
+
+## 🔥 amazing thing
+so these are some keybinding that are best
+
+- in visual mode J and K move the thing and if there is a thing like a if statement it also indent it when you move the Thing with J K 
+- <leader>s is the shourct for %s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>
+- <leader>x do !chmod +x %
 ## 🔑 Keybindings
 
 Leader key: `<Space>`
