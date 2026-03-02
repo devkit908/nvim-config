@@ -87,9 +87,9 @@ some thing are missing like for you need to copy things in clipboard you need ``
 
 what i am planning 
 
-- [] dashboard
-- [] terminal
-- [] add this so normal y an dp yan to clipboard and paste form clipboard
+- [ ] dashboard
+- [ ] terminal
+- [ ] add this so normal y an dp yan to clipboard and paste form clipboard
 
 ---
 
