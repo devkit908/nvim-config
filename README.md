@@ -78,7 +78,7 @@ lazy.nvim will install plugins automatically.
 ## 🎨 Theme
 
 Currently using **Gruvbox**.
-but now using  **catppuccinno**
+but now using  **catppuccin**
 
 ---
 
