@@ -90,9 +90,8 @@ what i am planning
 - [x] dashboard
 - [ ] terminal
 - [ ] add this so normal y and p yank to clipboard and paste from clipboard
-
----
-
+- [ ] add copilot and this thing so that tab is free for indent and use another key for copilot like <C-j> or something like that
+- [ ] add autosaver
 ## 🔥 amazing thing
 so these are some keybinding that are best
 
